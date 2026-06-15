@@ -4,7 +4,7 @@
 
 ### 🚀 DevOps & Cloud Engineer | AWS Certified
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=flat)
+[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=flat)](https://images.openai.com/static-rsc-4/IrPIm1JQq-F6a9iee46Zt8rNbAWP_8junQR4cqpqBmUDJnOAAv5BQG940aAk80hE0nNICX2qZResDOdXMlX6fsnVorMtibmPYzjKa9yjemEClQHYj4vAkWr590HJiMYpAKUkXjUdyDqfKHB6PYKFTutNShL0WLlFDtEoqkkTRDIwujZ289ZwZvupZkY6qTVV?purpose=fullsize)
 
 </div>
 
