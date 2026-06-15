@@ -1,5 +1,3 @@
-Bilkul. Niche ek **ready-to-use GitHub Profile README template** de raha hoon jo screenshot jaisa professional look dega. Bas apna naam, photo URL, social links aur skills change kar dena.
-
 <div align="center">
 
 <img src="https://your-banner-image-url.com/banner.png" width="100%" />
